@@ -37,7 +37,7 @@ Discord.js makes our lives easier by providing an easy way to create commands. W
 1) Create a `!nick` command that changes the bot's nickname to what's been passed as parameters.
     * If no argument is given, it resets the bot's nickname.
     
-### :paperclip: Embeds
+### Embeds
 
 Responding in raw messages can be hard to read when the messages traffic is important (like `db!info` above). You can make them prettier and easier to read by using **embeds**!
 
