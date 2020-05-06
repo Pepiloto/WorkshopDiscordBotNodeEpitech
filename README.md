@@ -9,4 +9,4 @@ Those are the steps for this workshop
 * [**Part 2 - Improve**](Part2_improve.md)
 * [**Part 3 - Let's play some music !**](Part3_let'splaysomemusic.md)
 ---
-*By Paul Beaudet and Killian Fleury*
+*By Paul Beaudet, Killian Fleury and Edouard Sengeissen*
