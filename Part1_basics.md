@@ -10,7 +10,7 @@ You have, for example, events for when a user joins the server, when someone sen
 2) When the bot disconnects, print a goodbye message to the console.
 3) Make the bot answer `pain au chocolat` if anyone's message contains `chocolatine` (case insensitive).
 4) When a user changes his nickname, annouce it by sending a message on the channel of your choice.
-   * Example message: `Joffrey changed his nickname to SmileDealer!`
+   * Example message: `Clément changed his nickname to kirikou!`
 
 ### Discord presence
 
