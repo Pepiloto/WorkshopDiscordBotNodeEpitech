@@ -31,6 +31,7 @@ npm install discord.js @discordjs/opus ffmpeg-static
 ### Invitation
 
 **We recommand that you create yourself a Discord Server dedicated to bot testing**
+
 On Discord Developpers Portal click on New Application.
 ![Image](invite.png)
 In OAuth2 tick `bot` and `Administrator` then copy and paste the link in your browser to invite your bot on your server.
