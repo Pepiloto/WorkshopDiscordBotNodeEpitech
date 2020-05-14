@@ -14,7 +14,7 @@ This part is a bit more challenging than part 1 and part 2 but it's also the bes
 
 1) You need your bot to check if the user that send the command `!play [URL TO YOUTUBE VIDEO]` is in a Voice channel.
 If not send a reply that explain why the command didn't work.
-1) Try to play some local music in the voice channel.
+1) Try to play some local music in the voice channel. (You can use the mp3 file in the repo)
 1) Use ytdl-core to play the url given as a parameter in the voice channel.
 1) Try to add some `filter` to the youtube video so even with a bad connection on your computer it will work.
 
