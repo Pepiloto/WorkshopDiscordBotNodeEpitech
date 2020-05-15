@@ -11,7 +11,7 @@
 ## Install and setup
 ### Dev tools installation
 
-For developing a Discord bot with NodeJS, you need NodeJS and Discord.js.
+In order to develop a Discord bot with NodeJS, you need NodeJS and Discord.js.
 To install them, you can use those commands:
 ```bash
 # nodeJS , if not installed already
