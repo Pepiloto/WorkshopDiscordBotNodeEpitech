@@ -32,7 +32,6 @@ Discord.js makes our lives easier by providing an easy way to create commands. W
     * Display name (user's current server nickname, if any)
     * User account creation date
     
-1) Create a `!stop` command that stops the bot and that is **only usable by the server admins**.
 1) Create a `!nick` command that changes the bot's nickname to what's been passed as parameters.
     * If no argument is given, it resets the bot's nickname.
     
