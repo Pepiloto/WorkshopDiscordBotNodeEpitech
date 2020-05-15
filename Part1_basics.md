@@ -32,7 +32,7 @@ Discord.js makes our lives easier by providing an easy way to create commands. W
     * Display name (user's current server nickname, if any)
     * User account creation date
     
-1) Create a `!nick` command that changes the bot's nickname to what's been passed as parameters.
+1) Create a `!nick` command that changes the first mentionned user nickname to what's been passed as parameters.
     * If no argument is given, it resets the bot's nickname.
     
 ### Embeds
