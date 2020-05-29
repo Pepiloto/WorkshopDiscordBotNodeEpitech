@@ -7,9 +7,7 @@ When anything happens on a Discord server, a corresponding event is triggered. T
 You have, for example, events for when a user joins the server, when someone sends a message, when the bot loses connection, and many more.
 
 1) When the bot logs in, print a greetings message to the console.
-3) Make the bot answer `pain au chocolat` if anyone's message contains `chocolatine` (case insensitive).
-4) When a user changes his nickname, annouce it by sending a message on the channel of your choice.
-   * Example message: `Clément changed his nickname to kirikou!`
+2) Make the bot answer `pain au chocolat` if anyone's message contains `chocolatine` (case insensitive).
 
 ### Discord presence
 
@@ -27,7 +25,6 @@ Discord.js makes our lives easier by providing an easy way to create commands. W
     * It is possible to have a multi-character command prefix!
 1) Create a `!ping` command that answers "pong".
 1) Create a `!info` command that answers some informations about the caller:
-    * Username
     * Discriminator (this is the #0000 part)
     * Display name (user's current server nickname, if any)
     * User account creation date
