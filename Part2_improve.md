@@ -5,7 +5,7 @@
 ## Important
 
 * You should take a look at [**Part 1**](Part1_basics.md) if you weren't there last time.
-* For our examples, our command prefix is `db!`, but you can change it by one of your choice.
+* For our examples, our command prefix is `!`, but you can change it by one of your choice.
 
 ## More things about commands
 ### Some options that can be cool to use
