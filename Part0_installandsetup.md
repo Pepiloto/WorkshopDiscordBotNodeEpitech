@@ -34,6 +34,7 @@ npm install discord.js @discordjs/opus ffmpeg-static
 
 On Discord Developpers Portal click on New Application.
 ![Image](invite.png)
+Before doing anything, click `Add a bot` in the `Bot` category from the left-side panel.
 In OAuth2 tick `bot` and `Administrator` then copy and paste the link in your browser to invite your bot on your server.
 *Of course, if you want to release your bot to the public, you would just select the permissions you need. But for development purposes, it's easier to have full power.*
 
